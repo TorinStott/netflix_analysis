@@ -1,5 +1,5 @@
 # Netflix_analysis
-an analysis of publicly available netflix data merged with IMDB ratings. <br>
+A work in progress analysis of publicly available netflix data merged with IMDB ratings. <br>
 # IMDB ratings and titles acquired from
 https://datasets.imdbws.com/ <br>
 'titles.basics.tsv', and 'titles.ratings.tsv' <br>
